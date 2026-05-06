@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tue_bluepill")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_STM32F103C8T6/tue_stm32bluepill.pretty")(options "")(descr ""))
+  (lib (name "tue_lm2596")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_LM2596SX-NOPB/tue_lm2596.pretty")(options "")(descr ""))
+  (lib (name "tue_drv8313")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_DRV8313PWPR")(options "")(descr ""))
+  (lib (name "tue_ams1117")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_AMS1117/tue_ams1117.pretty")(options "")(descr ""))
+  (lib (name "tue_inductor")(type "KiCad")(uri "E:/Project_Kicad/LIB/Inductor/tue__CDRH127LDNP-470MC_SUM.pretty")(options "")(descr ""))
+  (lib (name "tue_sw")(type "KiCad")(uri "E:/Project_Kicad/LIB/Switch/SS12D00/tue_switch_SS12D00.pretty")(options "")(descr ""))
+)
