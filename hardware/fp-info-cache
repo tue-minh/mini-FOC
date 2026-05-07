@@ -1,4 +1,4 @@
-25228446717588807
+25232003192755535
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101330,7 +101330,7 @@ SOP65P640X120-29N
 
 0
 53
-53
+29
 tue_inductor
 tue__CDRH127LDNP-470MC_SUM
 
@@ -101345,6 +101345,20 @@ LM2596SX-5.0/NOPB
 0
 6
 6
+tue_logo
+logo
+
+
+0
+0
+0
+tue_logo
+logo3x3
+
+
+0
+0
+0
 tue_sw
 tue_SS12D00_3P_2.5mm
 

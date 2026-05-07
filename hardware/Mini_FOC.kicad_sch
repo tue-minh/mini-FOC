@@ -9509,7 +9509,7 @@
 	)
 	(global_label "SPI_MISO"
 		(shape input)
-		(at 86.36 181.61 0)
+		(at 86.36 184.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9519,7 +9519,7 @@
 		)
 		(uuid "bc2ca7a7-1b40-49fa-95e8-52dbb93b6bb8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.9933 181.61 0)
+			(at 97.9933 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9861,7 +9861,7 @@
 	)
 	(global_label "SPI_MOSI"
 		(shape input)
-		(at 86.36 184.15 0)
+		(at 86.36 181.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9871,7 +9871,7 @@
 		)
 		(uuid "faa4d766-d766-46e5-a641-2f2ef33ca5b8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.9933 184.15 0)
+			(at 97.9933 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10526,7 +10526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 109.22 175.26 0)
 			(effects
 				(font
@@ -10803,7 +10803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 109.22 191.77 0)
 			(effects
 				(font
@@ -13358,7 +13358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical"
 			(at 81.28 189.23 0)
 			(effects
 				(font
