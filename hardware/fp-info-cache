@@ -1,4 +1,4 @@
-25232003192755535
+25235559514525713
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67010,6 +67010,13 @@ module pcb
 0
 7
 7
+Motor_3Phase
+Untitled
+
+
+0
+0
+0
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -101366,3 +101373,10 @@ tue_SS12D00_3P_2.5mm
 0
 3
 3
+tue_xt30pw-m
+AMASS_XT30PW-M
+
+
+0
+4
+4

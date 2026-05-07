@@ -7,4 +7,6 @@
   (lib (name "tue_inductor")(type "KiCad")(uri "E:/Project_Kicad/LIB/Inductor/tue__CDRH127LDNP-470MC_SUM.pretty")(options "")(descr ""))
   (lib (name "tue_sw")(type "KiCad")(uri "E:/Project_Kicad/LIB/Switch/SS12D00/tue_switch_SS12D00.pretty")(options "")(descr ""))
   (lib (name "tue_logo")(type "KiCad")(uri "C:/Users/ADMIN/OneDrive/Máy tính/tue_logo.pretty")(options "")(descr ""))
+  (lib (name "tue_xt30pw-m")(type "KiCad")(uri "E:/Project_Kicad/LIB/Connector/XT30/XT30PW-M/XT30PW-M.pretty")(options "")(descr ""))
+  (lib (name "Motor_3Phase")(type "KiCad")(uri "E:/Project_Kicad/LIB/Connector/Motor_3Phase.pretty")(options "")(descr ""))
 )
